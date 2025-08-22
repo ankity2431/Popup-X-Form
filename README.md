@@ -19,4 +19,4 @@ All the pages/components are located inside the ./src/components
 **Thank you once again for the opportunity. I’m looking forward to your feedback!** 
 
 **Best Regards:**
-Charan Raj
+Ankit K. Yadav
